@@ -38,7 +38,6 @@ YOUTUBE-SELF-PROJECT/
 
 ```
 
----
 
 ---
 
@@ -68,8 +67,6 @@ YOUTUBE-SELF-PROJECT/
 
 ---
 
-
----
 
 ## 🤝 Contributing
 
