@@ -29,23 +29,16 @@ A simple and clean **YouTube front-end clone** built using **pure HTML and CSS**
 ## 📂 Project Structure
 
 ```
-├── index.html
-├── style.css
-├── assets/
-│   ├── images
-│   └── icons
-└── README.md
+YOUTUBE-SELF-PROJECT/
+├── Channel-Pictures/    # Channel profile images
+├── Icons/               # UI icons
+├── Styles/              # CSS files
+├── Thumbnails/          # Video thumbnail images
+└── Youtube.html         # Main HTML file
+
 ```
 
 ---
-
-## 📸 Screenshots
-
-*Add screenshots of your project here*
-
-```
-![Homepage](assets/screenshots/home.png)
-```
 
 ---
 
@@ -75,14 +68,6 @@ A simple and clean **YouTube front-end clone** built using **pure HTML and CSS**
 
 ---
 
-## 📥 How to Use
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Open `index.html` in your browser
 
 ---
 
